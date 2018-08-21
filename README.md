@@ -6,8 +6,9 @@
  - Kotlin
  - MVVM
  - AAC
- - jetpack
- - support library
- - RxJava
+ - Jetpack
+ - Support Library
+ - RxJava2
+ - RxKotlin
  - Retrofit2
  - Firebase
