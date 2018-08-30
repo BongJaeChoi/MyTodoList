@@ -5,7 +5,7 @@ import android.arch.persistence.room.Database
 import android.arch.persistence.room.Room
 import android.arch.persistence.room.RoomDatabase
 import android.content.Context
-import com.mizing.todoapp.Utils.DATABASE_NAME
+import com.mizing.todoapp.utils.DATABASE_NAME
 
 
 @Database(entities = [MemoEntity::class], version = 1, exportSchema = false)
